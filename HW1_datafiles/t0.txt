@@ -1,0 +1,11 @@
+(S
+  (NP I)
+  (VP
+    (VP
+      (V book)
+      (NP
+        (Det a)
+        (N flight)))
+    (PP
+      (P in)
+      (NP May))))
